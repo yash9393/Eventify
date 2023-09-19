@@ -7,11 +7,11 @@ This contains features of registering to Hackathons and Events.
 New features like - notifications and event reminder can be added in the upcoming version of the application.
 
 Technology Stack-:
-1.Flutter 
-2.Dart
-3.Android Studio
-4.PHP
-5.DataBase : Mysql
+1. Flutter 
+2. Dart
+3. Android Studio
+4. PHP
+5. DataBase : Mysql
 
 ![image](https://github.com/mp2463/Eventify/assets/103843419/64334bf6-6d82-4532-b64a-b5433ad2748e)
 ![image](https://github.com/mp2463/Eventify/assets/103843419/c35e5482-656a-430a-b5be-c0e83bde29b6)
@@ -22,8 +22,8 @@ Technology Stack-:
 ![image](https://github.com/mp2463/Eventify/assets/103843419/71d9b8d8-ddf7-4fbc-a0d3-d1d3062f1945)
 
 Team Members-:
-Mohil Chaturvedi
-Abhishek Vashisth
-Yashraj Chavan
-Sagar Chavan
-Suraj Singh
+1. Mohil Chaturvedi
+2. Abhishek Vashisth
+3. Yashraj Chavan
+4. Sagar Chavan
+5. Suraj Singh
